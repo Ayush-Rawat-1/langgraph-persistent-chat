@@ -47,6 +47,14 @@ streamlit run langgraph_frontend_final.py
 
 ---
 
+## Architecture
+
+Below is the flow of the chatbot powered by LangGraph:
+
+![LangGraph Chat Flow](graph.png)
+
+---
+
 ## 🖥 Backend Explanation
 
 The backend is built using **LangGraph** for conversational state management and persistence.  
